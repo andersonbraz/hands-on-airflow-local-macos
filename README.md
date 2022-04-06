@@ -1,6 +1,6 @@
 # HandsOn Aiflow Local on MacOS
 
-Neste toturial eu prefiro baixar/clonar diretamente o pyenv e definir minhas variáveis de ambiente para posteriormente instalar um AirFlow com a versão correta do Python.
+Neste tutorial eu prefiro baixar/clonar diretamente o pyenv e definir minhas variáveis de ambiente para posteriormente instalar um AirFlow com a versão correta do Python.
 
 ## Step 1 - Download PyEnv
 
